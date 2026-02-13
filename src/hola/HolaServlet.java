@@ -12,7 +12,7 @@ import jakarta.servlet.http.HttpServletResponse;
 /**
  * Servlet básico de prueba para despliegue en Tomcat 10
  */
-@WebServlet("/hola")
+
 public class HolaServlet extends HttpServlet {
 
     @Override

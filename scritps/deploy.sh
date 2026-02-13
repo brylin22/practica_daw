@@ -9,7 +9,7 @@
 # VARIABLES
 # -------------------------------
 
-REPO_DIR="/home/ubuntu/mi-repo"
+REPO_DIR="/home/ubuntu/practica_daw"
 SRC_DIR="$REPO_DIR/src"
 BUILD_DIR="$REPO_DIR/build"
 TOMCAT_WEBAPPS="/var/lib/tomcat10/webapps"
